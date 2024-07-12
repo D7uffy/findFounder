@@ -1,0 +1,144 @@
+extends layout
+
+block content
+
+    if isSearchPressed 
+        include facets.jade
+    else 
+        include facetsOff.jade
+
+    script.
+        let isSearchPressed = false;
+
+        function handleSearchClick() { 
+            document.getElementById('search_form').submit();
+        }  
+
+
+    //- Contenedor principal para centrar la página
+    div(id="main_container" class="centered-box")
+
+        //- Encabezado con el logo y el título
+        div(id="header")
+            img#logo(src="/img/ff.png" alt="Logo")
+
+        //- Contenedor del buscador
+        div(id="search_container")
+            form(id='search_form' method='GET' action='/' onsubmit="return validarBusqueda()")
+                //- Este es el formulario de búsqueda.
+                div(id="search_box")
+                    input(type="text" minlength="3" maxlength="25" id="search" name="search" value="#{searchString}" placeholder="Buscar fondos..." required)
+                    input(type="hidden" id="type" name="type" value="#{searchType}")
+                    input(type="hidden" id="types" name="types" value="#{searchTypes}")
+                    input(type="hidden" id="amount" name="amount" value="#{searchAmount}")
+                    input(type="hidden" id="isSearchPressed" name="isSearchPressed" value="false")
+                    input(type="submit" value="Buscar" onclick="document.getElementById('isSearchPressed').value='true'; handleSearchClick()")
+
+            div(id="boxClearSearch")
+                //- Botón para limpiar la búsqueda
+                button(type="button" id="reset_button" onclick="resetSearch()") Limpiar búsqueda
+
+
+
+        //- Aquí rendereamos el total de resultados encontrados en Elasticsearch.
+        if isSearchPressed 
+            div(id="total")
+                h2= 'Encontrados ' + total + ' resultados'       
+        else 
+            div(id="total")
+                h2= 'Resultados:'    
+
+        //- Script para resaltar las palabras buscadass
+        script.
+            function highlight(text, search) {
+                if (!search) return text;
+                const searchRegex = new RegExp(`(${search})`, 'gi');
+                return text.replace(searchRegex, '<span class="highlight">$1</span>');
+            }
+
+
+            document.addEventListener('DOMContentLoaded', function() {
+                const searchString = document.getElementById('search').value;
+                const resultsContainer = document.getElementById('hits');
+                const hits = resultsContainer.getElementsByClassName('hit');
+
+                Array.from(hits).forEach(hit => {
+                    const titleElement = hit.querySelector('.hit-title');
+                    const summaryElement = hit.querySelector('.hit-summary');
+                    titleElement.innerHTML = highlight(titleElement.innerHTML, searchString);
+                    summaryElement.innerHTML = highlight(summaryElement.innerHTML, searchString);
+                });
+            });
+
+        //- Finalmente, iteramos y rendereamos el título y el resumen de cada resultado.
+
+        if !isSearchPressed
+            div(id="hits2") 
+                each hit in hitsFechas
+                    div.hit
+                        h2.hit-title=hit._source.title
+                        p.hit-summary!= hit._source.summary[0]
+                        p.hit-date
+                            strong Fecha inicial:
+                            |  #{hit._source.date_ini}
+                        p.hit-date
+                            strong Fecha final:
+                            |  #{hit._source.date_end}
+                        p.hit-date
+                            strong Área:
+                            |  #{hit._source.area}                    
+                        p.hit-duration
+                            strong Duración: 
+                            |  #{hit._source.duration}
+                            hr
+                            br
+                            h4.hit-amount= 'Monto disponible:' + ' '
+                            span.amount= '$'+ hit._source.amount 
+
+                        div.amount-container
+                            a(href=hit._source.url, target="_blank")=hit._source.url
+        else 
+            div(id="hits")
+                each hit in hits
+                    div.hit
+                        h2.hit-title=hit._source.title
+                        p.hit-summary!= hit._source.summary[0]
+                        p.hit-date
+                            strong Fecha inicial:
+                            |  #{hit._source.date_ini}
+                        p.hit-date
+                            strong Fecha final:
+                            |  #{hit._source.date_end}
+                        p.hit-date
+                            strong Área:
+                            |  #{hit._source.area}                    
+                        p.hit-duration
+                            strong Duración: 
+                            |  #{hit._source.duration}
+                            hr
+                            br
+                            h4.hit-amount= 'Monto disponible:' + ' '
+                            span.amount= '$'+ hit._source.amount 
+
+                        div.amount-container
+                            a(href=hit._source.url, target="_blank")=hit._source.url
+
+
+
+
+
+    style.
+        .highlight {
+            background: linear-gradient(135deg, #f6d365 0%, #fda085 100%);
+            padding: 0.3em 0.5em;
+            border-radius: 0.3em;
+            box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+            font-weight: bold;
+            color: #fff;
+            transition: transform 0.3s ease-in-out;
+
+        }
+
+        .highlight:hover {
+            transform: scale(1.05);
+        }

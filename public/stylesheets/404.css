@@ -1,0 +1,35 @@
+/* Estilos específicos para errores */
+
+/* Estilo del contenedor */
+.error-container {
+  width: 80%;
+  max-width: 600px;
+  margin: 50px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilo del título */
+.error-title {
+  font-size: 36px;
+  color: #dc3545; /* Color rojo */
+}
+
+/* Estilo del mensaje */
+.error-message {
+  font-size: 18px;
+  margin-top: 10px;
+  color: #333;
+}
+
+/* Estilo del enlace */
+.error-link {
+  color: #007bff; /* Color azul */
+  text-decoration: none;
+}
+
+.error-link:hover {
+  text-decoration: underline;
+}

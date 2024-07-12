@@ -1,0 +1,2195 @@
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/10:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Start-Up Chile - Growth 8"
+        ],
+        "nid": [
+            "10"
+        ],
+        "title": [
+            "Start-Up Chile - Growth 8"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.startupchile.org/programs/growth/"
+        ],
+        "amount": [
+            "75000000"
+        ],
+        "dates": [
+            "2024-04-16 - 2024-05-07"
+        ],
+        "duration": [
+            "3 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/11:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Start-Up Chile - Ignite 8"
+        ],
+        "nid": [
+            "11"
+        ],
+        "title": [
+            "Start-Up Chile - Ignite 8"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.startupchile.org/programs/ignite/"
+        ],
+        "amount": [
+            "30000000"
+        ],
+        "dates": [
+            "2024-04-16 - 2024-05-07"
+        ],
+        "duration": [
+            "3 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/12:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Innova Región con foco en Sostenibilidad"
+        ],
+        "nid": [
+            "12"
+        ],
+        "title": [
+            "Innova Región con foco en Sostenibilidad"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/innova_region"
+        ],
+        "amount": [
+            "60000000"
+        ],
+        "dates": [
+            "2024-04-11 - 2024-05-23"
+        ],
+        "duration": [
+            "6 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/13:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Semilla Expande para Empresas Lideradas por Mujeres"
+        ],
+        "nid": [
+            "13"
+        ],
+        "title": [
+            "Semilla Expande para Empresas Lideradas por Mujeres"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/semilla_expande_mujeres"
+        ],
+        "amount": [
+            "17000000"
+        ],
+        "dates": [
+            "2024-04-11 - 2024-05-15"
+        ],
+        "duration": [
+            "5 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/14:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Crea y Valida - ZIM"
+        ],
+        "nid": [
+            "14"
+        ],
+        "title": [
+            "Crea y Valida - ZIM"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/crea_valida_zim"
+        ],
+        "amount": [
+            "220000000"
+        ],
+        "dates": [
+            "2024-04-09 - 2024-07-31"
+        ],
+        "duration": [
+            "16 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/15:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Crea y Valida"
+        ],
+        "nid": [
+            "15"
+        ],
+        "title": [
+            "Crea y Valida"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/crea_valida"
+        ],
+        "amount": [
+            "220000000"
+        ],
+        "dates": [
+            "2024-03-21 - 2024-05-30"
+        ],
+        "duration": [
+            "10 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/16:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Crea y Valida Eureka"
+        ],
+        "nid": [
+            "16"
+        ],
+        "title": [
+            "Crea y Valida Eureka"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/crea_valida_eureka"
+        ],
+        "amount": [
+            "220000000"
+        ],
+        "dates": [
+            "2024-04-19 - 2024-05-23"
+        ],
+        "duration": [
+            "5 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/17:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "RED ASOCIATIVA - CONVOCATORIA ZONAL 2024 DESARROLLO SUSTENTABLE SILVOAGROPECUARIO - ETAPA DE DESARROLLO"
+        ],
+        "nid": [
+            "17"
+        ],
+        "title": [
+            "RED ASOCIATIVA - CONVOCATORIA ZONAL 2024 DESARROLLO SUSTENTABLE SILVOAGROPECUARIO - ETAPA DE DESARROLLO"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/red_asociativa_desarrollo_sustentable"
+        ],
+        "amount": [
+            "40000000"
+        ],
+        "dates": [
+            "2024-03-22 - 2024-05-22"
+        ],
+        "duration": [
+            "9 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/18:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "RED PROVEEDORES - CONVOCATORIA ZONAL 2024 DESARROLLO SUSTENTABLE SILVOAGROPECUARIO - ETAPA DE DESARROLLO"
+        ],
+        "nid": [
+            "18"
+        ],
+        "title": [
+            "RED PROVEEDORES - CONVOCATORIA ZONAL 2024 DESARROLLO SUSTENTABLE SILVOAGROPECUARIO - ETAPA DE DESARROLLO"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/red_proveedores_desarrollo_sustentable"
+        ],
+        "amount": [
+            "50000000"
+        ],
+        "dates": [
+            "2024-03-22 - 2024-05-22"
+        ],
+        "duration": [
+            "9 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/19:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "RED TECNOLÓGICA GTT - CONVOCATORIA ZONAL 2024 DESARROLLO SUSTENTABLE SILVOAGROPECUARIO - ETAPA DE DESARROLLO"
+        ],
+        "nid": [
+            "19"
+        ],
+        "title": [
+            "RED TECNOLÓGICA GTT - CONVOCATORIA ZONAL 2024 DESARROLLO SUSTENTABLE SILVOAGROPECUARIO - ETAPA DE DESARROLLO"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/red_tecnologica_gtt"
+        ],
+        "amount": [
+            "3500000"
+        ],
+        "dates": [
+            "2024-03-22 - 2024-05-22"
+        ],
+        "duration": [
+            "9 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/20:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "IFI - PROGRAMA DE APOYO A INVERSIONES AUDIOVISUALES DE ALTO IMPACTO"
+        ],
+        "nid": [
+            "20"
+        ],
+        "title": [
+            "IFI - PROGRAMA DE APOYO A INVERSIONES AUDIOVISUALES DE ALTO IMPACTO"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/ifi_programa_inversiones_audiovisuales"
+        ],
+        "amount": [
+            "3000000000"
+        ],
+        "dates": [
+            "2024-03-21 - 2024-12-31"
+        ],
+        "duration": [
+            "41 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/21:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Programa de Absorción Tecnológica para la Innovación (Postulaciones permanentes)"
+        ],
+        "nid": [
+            "21"
+        ],
+        "title": [
+            "Programa de Absorción Tecnológica para la Innovación"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/absorcion_tecnologica"
+        ],
+        "amount": [
+            "390000000"
+        ],
+        "dates": [
+            "2024-02-26 - 2024-12-31"
+        ],
+        "duration": [
+            "44 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/22:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Capital Humano para la Innovación"
+        ],
+        "nid": [
+            "22"
+        ],
+        "title": [
+            "Capital Humano para la Innovación"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/capital_humano_innovacion"
+        ],
+        "amount": [
+            "40000000"
+        ],
+        "dates": [
+            "2024-02-26 - 2024-12-31"
+        ],
+        "duration": [
+            "44 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/23:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Innova Alta Tecnología"
+        ],
+        "nid": [
+            "23"
+        ],
+        "title": [
+            "Innova Alta Tecnología"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/innova_alta_tecnologia"
+        ],
+        "amount": [
+            "1000000000"
+        ],
+        "dates": [
+            "2024-07-03"
+        ],
+        "duration": [
+            "Permanente"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/24:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Escala Pro Inversión"
+        ],
+        "nid": [
+            "24"
+        ],
+        "title": [
+            "Escala Pro Inversión"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/escala_pro_inversion"
+        ],
+        "amount": [
+            "100000 UF"
+        ],
+        "dates": [
+            "Disponible todo el año"
+        ],
+        "duration": [
+            "Permanente"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/25:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "FOGAIN Mujer Garantía para Capital de trabajo e Inversión"
+        ],
+        "nid": [
+            "25"
+        ],
+        "title": [
+            "FOGAIN Mujer Garantía para Capital de trabajo e Inversión"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/fogain_mujer"
+        ],
+        "amount": [
+            "12000 UF"
+        ],
+        "dates": [
+            "Disponible todo el año"
+        ],
+        "duration": [
+            "Permanente"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/26:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "COBEX Garantías al Fomento de Comercio Exterior"
+        ],
+        "nid": [
+            "26"
+        ],
+        "title": [
+            "COBEX Garantías al Fomento de Comercio Exterior"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/cobex_garantias"
+        ],
+        "amount": [
+            "35000 UF"
+        ],
+        "dates": [
+            "Disponible todo el año"
+        ],
+        "duration": [
+            "Permanente"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/27:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "FOGAIN Garantía para Inversión y Capital de Trabajo"
+        ],
+        "nid": [
+            "27"
+        ],
+        "title": [
+            "FOGAIN Garantía para Inversión y Capital de Trabajo"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/fogain_inversion"
+        ],
+        "amount": [
+            "18000 UF"
+        ],
+        "dates": [
+            "Disponible todo el año"
+        ],
+        "duration": [
+            "Permanente"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/28:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Garantías de crédito para proyectos de inversión"
+        ],
+        "nid": [
+            "28"
+        ],
+        "title": [
+            "Pro-Inversión Garantías a Créditos para Inversión"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/pro_inversion_garantias"
+        ],
+        "amount": [
+            "100000 UF"
+        ],
+        "dates": [
+            "Disponible todo el año"
+        ],
+        "duration": [
+            "Permanente"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/29:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Incentivos fiscales para I+D y innovación"
+        ],
+        "nid": [
+            "29"
+        ],
+        "title": [
+            "Ley Incentivo Tributario I+D"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.corfo.cl/sites/cpp/ley_id"
+        ],
+        "amount": [
+            "Varía según proyecto"
+        ],
+        "dates": [
+            "Disponible todo el año"
+        ],
+        "duration": [
+            "Permanente"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/30:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo económico para investigadores en etapa inicial"
+        ],
+        "nid": [
+            "30"
+        ],
+        "title": [
+            "Fondecyt Iniciación en Investigación 2025"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/fondecyt-iniciacion-2025/"
+        ],
+        "amount": [
+            "90000000"
+        ],
+        "dates": [
+            "2024-04-04 - 2024-05-31"
+        ],
+        "duration": [
+            "8 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/31:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para proyectos de investigación consolidados"
+        ],
+        "nid": [
+            "31"
+        ],
+        "title": [
+            "Fondecyt Regular 2025"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/fondecyt-regular-2025/"
+        ],
+        "amount": [
+            "57000000"
+        ],
+        "dates": [
+            "2024-05-14 - 2024-07-11"
+        ],
+        "duration": [
+            "8 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/32:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo a proyectos de investigación exploratoria de alto riesgo"
+        ],
+        "nid": [
+            "32"
+        ],
+        "title": [
+            "Proyectos de Exploración 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/proyectos-exploracion-2024/"
+        ],
+        "amount": [
+            "96000000"
+        ],
+        "dates": [
+            "2024-04-30 - 2024-06-25"
+        ],
+        "duration": [
+            "8 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/33:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Fomento a la colaboración internacional en investigación"
+        ],
+        "nid": [
+            "33"
+        ],
+        "title": [
+            "Fomento a la Investigación Internacional 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/fomento-investigacion-internacional-2024/"
+        ],
+        "amount": [
+            "30000000"
+        ],
+        "dates": [
+            "2024-04-29 - 2024-06-13"
+        ],
+        "duration": [
+            "6 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/34:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo para oficinas de transferencia tecnológica en universidades y centros de investigación"
+        ],
+        "nid": [
+            "34"
+        ],
+        "title": [
+            "Consolidación de las Oficinas de Transf. y Lic. OTL"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/otl-2024/"
+        ],
+        "amount": [
+            "330000000"
+        ],
+        "dates": [
+            "2024-04-25 - 2024-06-06"
+        ],
+        "duration": [
+            "6 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/35:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Fondos para proyectos de investigación en astronomía"
+        ],
+        "nid": [
+            "35"
+        ],
+        "title": [
+            "Fondo Quimal 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/quimal-2024/"
+        ],
+        "amount": [
+            "200000000"
+        ],
+        "dates": [
+            "2024-04-25 - 2024-06-07"
+        ],
+        "duration": [
+            "6 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/36:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para proyectos de colaboración en astrofísica"
+        ],
+        "nid": [
+            "36"
+        ],
+        "title": [
+            "Fondo ALMA-ANID 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/alma-anid-2024/"
+        ],
+        "amount": [
+            "105000000"
+        ],
+        "dates": [
+            "2024-04-23 - 2024-06-06"
+        ],
+        "duration": [
+            "6 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/37:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para proyectos de tesis en contextos productivos"
+        ],
+        "nid": [
+            "37"
+        ],
+        "title": [
+            "Tesis Doctorado en el Sector Productivo 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/tesis-doctorado-productivo-2024/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "2024-04-11 - 2024-06-04"
+        ],
+        "duration": [
+            "7 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/38:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo a la indexación de revistas científicas chilenas en SciELO"
+        ],
+        "nid": [
+            "38"
+        ],
+        "title": [
+            "Indexación de Revistas Científicas en Colecc SciELO"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/indexacion-scielo-2024/"
+        ],
+        "amount": [
+            "Variable según revista"
+        ],
+        "dates": [
+            "2024-03-01 - 2024-10-31"
+        ],
+        "duration": [
+            "34 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/39:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Becas para magíster profesional en educación"
+        ],
+        "nid": [
+            "39"
+        ],
+        "title": [
+            "Magíster Profesionales de la Educación Becas Chile 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/becas/magister-profesionales-educacion-2024/"
+        ],
+        "amount": [
+            "Cubre matrícula y arancel"
+        ],
+        "dates": [
+            "2024-06-04 - 2024-07-09"
+        ],
+        "duration": [
+            "5 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/40:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo a investigadores postdoctorales en áreas prioritarias"
+        ],
+        "nid": [
+            "40"
+        ],
+        "title": [
+            "Postdoctorado Becas Chile 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/becas/postdoctorado-chile-2024/"
+        ],
+        "amount": [
+            "Cubre estipendio mensual y costos operativos"
+        ],
+        "dates": [
+            "2024-06-04 - 2024-07-09"
+        ],
+        "duration": [
+            "5 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/41:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para centros científicos y tecnológicos de excelencia"
+        ],
+        "nid": [
+            "41"
+        ],
+        "title": [
+            "Apoyo a Centros Científicos y Tecnológicos de Excelencia con Financiamiento Basal 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/centros-cientificos-tecnologicos-excelencia-2024/"
+        ],
+        "amount": [
+            "Variable según centro"
+        ],
+        "dates": [
+            "2024-06 - 2024-07"
+        ],
+        "duration": [
+            "4 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/42:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Concurso para asignar tiempo de uso en buque oceanográfico"
+        ],
+        "nid": [
+            "42"
+        ],
+        "title": [
+            "Concurso Asignación de Tiempo de Buque Oceanográfico 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/tiempo-buque-oceanografico-2024/"
+        ],
+        "amount": [
+            "Cubre costos de operación"
+        ],
+        "dates": [
+            "2024-06 - 2024-07"
+        ],
+        "duration": [
+            "4 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/43:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para la creación de centros de investigación aplicada"
+        ],
+        "nid": [
+            "43"
+        ],
+        "title": [
+            "Concurso de Centros de Investigación Aplicada 2025"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/centros-investigacion-aplicada-2025/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "2024-06 - 2024-09"
+        ],
+        "duration": [
+            "12 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/44:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo a institutos de ciencias naturales y exactas para investigación avanzada"
+        ],
+        "nid": [
+            "44"
+        ],
+        "title": [
+            "Concurso de Institutos Milenio en Ciencias Naturales y Exactas 2025"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/institutos-milenio-ciencias-naturales-exactas-2025/"
+        ],
+        "amount": [
+            "Variable según instituto"
+        ],
+        "dates": [
+            "2024-06 - 2024-09"
+        ],
+        "duration": [
+            "12 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/45:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para institutos de ciencias sociales enfocados en investigación innovadora"
+        ],
+        "nid": [
+            "45"
+        ],
+        "title": [
+            "Concurso de Institutos Milenio en Ciencias Sociales 2025"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/institutos-milenio-ciencias-sociales-2025/"
+        ],
+        "amount": [
+            "Variable según instituto"
+        ],
+        "dates": [
+            "2024-06 - 2024-09"
+        ],
+        "duration": [
+            "12 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/46:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para el desarrollo de centros tecnológicos innovadores"
+        ],
+        "nid": [
+            "46"
+        ],
+        "title": [
+            "Concurso de Centros Tecnológicos para la Innovación 2025"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/centros-tecnologicos-innovacion-2025/"
+        ],
+        "amount": [
+            "Variable según centro"
+        ],
+        "dates": [
+            "2024-06 - 2024-09"
+        ],
+        "duration": [
+            "12 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/47:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo para el establecimiento de centros de investigación de interés nacional"
+        ],
+        "nid": [
+            "47"
+        ],
+        "title": [
+            "Concurso de Centros de Investigación de Interés Nacional 2025"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/centros-investigacion-interes-nacional-2025/"
+        ],
+        "amount": [
+            "Variable según centro"
+        ],
+        "dates": [
+            "2024-06 - 2024-09"
+        ],
+        "duration": [
+            "12 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/48:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo a proyectos de colaboración pública para resolver desafíos específicos"
+        ],
+        "nid": [
+            "48"
+        ],
+        "title": [
+            "Desafíos Públicos 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/desafios-publicos-2024/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "2024-06 - 2024-07"
+        ],
+        "duration": [
+            "4 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/49:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para proyectos de I+D que puedan traducirse en innovaciones tecnológicas"
+        ],
+        "nid": [
+            "49"
+        ],
+        "title": [
+            "Concurso IDeA I+D 2025"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/idea-id-2025/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "2024-06 - 2024-09"
+        ],
+        "duration": [
+            "12 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/50:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo para startups científicas y tecnológicas en etapas tempranas"
+        ],
+        "nid": [
+            "50"
+        ],
+        "title": [
+            "Start Up Ciencia 2025"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/startup-ciencia-2025/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "2024-06 - 2024-08"
+        ],
+        "duration": [
+            "8 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/51:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Impulso a la creación de hubs de transferencia tecnológica"
+        ],
+        "nid": [
+            "51"
+        ],
+        "title": [
+            "Concurso Hub de Transferencia Tecnológica 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/hub-transferencia-tecnologica-2024/"
+        ],
+        "amount": [
+            "Variable según hub"
+        ],
+        "dates": [
+            "2024-07 - 2024-08"
+        ],
+        "duration": [
+            "4 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/52:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo para el desarrollo de tecnologías avanzadas en I+D"
+        ],
+        "nid": [
+            "52"
+        ],
+        "title": [
+            "Concurso IDeA I+D Tecnologías Avanzadas 2025"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/idea-id-tecnologias-avanzadas-2025/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "2024-09 - 2024-11"
+        ],
+        "duration": [
+            "8 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/53:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para investigación tecnológica con potencial de aplicación comercial"
+        ],
+        "nid": [
+            "53"
+        ],
+        "title": [
+            "Concurso de Investigación Tecnológica IDeA 2025"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/idea-investigacion-tecnologica-2025/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "2024-11 - 2025-03"
+        ],
+        "duration": [
+            "16 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/54:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo a la indexación de revistas científicas chilenas en la colección SciELO"
+        ],
+        "nid": [
+            "54"
+        ],
+        "title": [
+            "Convocatoria para Indexación de Revistas Científicas en Colección SciELO Chile 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/indexacion-revistas-scielo-2024/"
+        ],
+        "amount": [
+            "Variable según revista"
+        ],
+        "dates": [
+            "2024-03-01 - 2024-10-31"
+        ],
+        "duration": [
+            "34 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/55:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para estudios sobre pluralismo en el sector público"
+        ],
+        "nid": [
+            "55"
+        ],
+        "title": [
+            "Concurso de Estudios sobre Pluralismo 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/estudios-pluralismo-2024/"
+        ],
+        "amount": [
+            "30000000"
+        ],
+        "dates": [
+            "2024-05-30 - 2024-07-02"
+        ],
+        "duration": [
+            "5 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/56:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo para el desarrollo de conocimientos en ciencias durante 2030"
+        ],
+        "nid": [
+            "56"
+        ],
+        "title": [
+            "Fondo CAS-ANID 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/cas-anid-2024/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "2024-06 - 2024-08"
+        ],
+        "duration": [
+            "8 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/57:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para la segunda etapa del Concurso Conocimientos 2030"
+        ],
+        "nid": [
+            "57"
+        ],
+        "title": [
+            "Concurso Conocimientos 2030 – Etapa 2"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/conocimientos-2030-etapa-2/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "2024-08 - 2024-09"
+        ],
+        "duration": [
+            "4 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/58:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Acceso a telescopio para proyectos de astronomía en 2025"
+        ],
+        "nid": [
+            "58"
+        ],
+        "title": [
+            "Tiempo de Telescopio APEX 2025-A"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/telescopio-apex-2025-a/"
+        ],
+        "amount": [
+            "Variable según uso"
+        ],
+        "dates": [
+            "2024-09 - 2024-10"
+        ],
+        "duration": [
+            "4 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/59:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Asignación de tiempo para observaciones en Telescopio Gemini Sur"
+        ],
+        "nid": [
+            "59"
+        ],
+        "title": [
+            "Tiempo de Telescopio Gemini Sur 2025-A"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/telescopio-gemini-sur-2025-a/"
+        ],
+        "amount": [
+            "Variable según uso"
+        ],
+        "dates": [
+            "2024-09 - 2024-10"
+        ],
+        "duration": [
+            "4 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/60:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo para la implementación de proyectos de innovación en cooperativas agrícolas"
+        ],
+        "nid": [
+            "60"
+        ],
+        "title": [
+            "Diseño y ejecución de una gira nacional de innovación para cooperativas del Programa AgroCoopInnova 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.fia.cl/concursos/agrocoopinnova-2024/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "2024-05-23 - 2024-07-21"
+        ],
+        "duration": [
+            "8 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/61:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para proyectos I+D regulares en todas las áreas de conocimiento"
+        ],
+        "nid": [
+            "61"
+        ],
+        "title": [
+            "Concurso Regular I+D para Innovar"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.copec-uc.cl/concurso-regular-id/"
+        ],
+        "amount": [
+            "4000 UF"
+        ],
+        "dates": [
+            "2024-07-03"
+        ],
+        "duration": [
+            "Convocatoria puntual en un solo día"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/62:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento regular para proyectos de investigación científica y tecnológica"
+        ],
+        "nid": [
+            "62"
+        ],
+        "title": [
+            "Dicyt Regular"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.dicyt.com/convocatorias/dicyt-regular-2024/"
+        ],
+        "amount": [
+            "57000000"
+        ],
+        "dates": [
+            "2024-07-27"
+        ],
+        "duration": [
+            "Convocatoria puntual en un solo día"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/63:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo para proyectos exploratorios en ciencia y tecnología"
+        ],
+        "nid": [
+            "63"
+        ],
+        "title": [
+            "Concurso de Proyectos de Exploración 2024"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.dicyt.com/convocatorias/proyectos-exploracion-2024/"
+        ],
+        "amount": [
+            "96000000"
+        ],
+        "dates": [
+            "2024-07-11"
+        ],
+        "duration": [
+            "Convocatoria puntual en un solo día"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/64:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo a asistentes de investigación en proyectos de Dicyt"
+        ],
+        "nid": [
+            "64"
+        ],
+        "title": [
+            "Dicyt asistente de investigación"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.dicyt.com/convocatorias/asistente-investigacion-2024/"
+        ],
+        "amount": [
+            "Variable según asignación"
+        ],
+        "dates": [
+            "2024-09-04 - 2024-10-04"
+        ],
+        "duration": [
+            "4 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/65:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para posiciones postdoctorales en proyectos de Dicyt"
+        ],
+        "nid": [
+            "65"
+        ],
+        "title": [
+            "DICYT Postdoctorado"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.dicyt.com/convocatorias/postdoctorado-2024/"
+        ],
+        "amount": [
+            "Variable según asignación"
+        ],
+        "dates": [
+            "2024-07-30 - 2024-08-30"
+        ],
+        "duration": [
+            "4 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/66:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo para asistencia a eventos científicos, segunda llamada del año"
+        ],
+        "nid": [
+            "66"
+        ],
+        "title": [
+            "Apoyo Asistencia a Eventos 2° Llamado"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.dicyt.com/convocatorias/asistencia-eventos-2-2024/"
+        ],
+        "amount": [
+            "Variable según evento"
+        ],
+        "dates": [
+            "2024-06-24 - 2024-07-24"
+        ],
+        "duration": [
+            "4 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/67:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento para asistencia a eventos científicos, tercera llamada del año"
+        ],
+        "nid": [
+            "67"
+        ],
+        "title": [
+            "Apoyo Asistencia a Eventos 3° Llamado"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.dicyt.com/convocatorias/asistencia-eventos-3-2024/"
+        ],
+        "amount": [
+            "Variable según evento"
+        ],
+        "dates": [
+            "2024-09-06 - 2024-10-04"
+        ],
+        "duration": [
+            "4 semanas"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/68:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo financiero para iniciativas de innovación en la región"
+        ],
+        "nid": [
+            "68"
+        ],
+        "title": [
+            "Fondo de Innovación para la Competitividad FIC- R 2023"
+        ],
+        "type": [
+            "Regional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.gobiernoregional.cl/fic-r-2023/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "Disponible todo el año"
+        ],
+        "duration": [
+            "Permanente"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/69:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Financiamiento regional para desarrollo de proyectos de gran escala"
+        ],
+        "nid": [
+            "69"
+        ],
+        "title": [
+            "Fondo Nacional de Desarrollo Regional (FNDR)"
+        ],
+        "type": [
+            "Regional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.gobiernoregional.cl/fndr/"
+        ],
+        "amount": [
+            "110000000000"
+        ],
+        "dates": [
+            "2023-12"
+        ],
+        "duration": [
+            "Convocatoria puntual en un solo mes"
+        ]
+    }
+}
+
+{
+    "_index": "fondos",
+    "_type": "elastic",
+    "_id": "entity:node/70:en",
+    "_score": 1,
+    "_source": {
+        "summary": [
+            "Apoyo inicial para startups científicas y tecnológicas emergentes."
+        ],
+        "nid": [
+            "70"
+        ],
+        "title": [
+            "Start up Ciencia /ANID"
+        ],
+        "type": [
+            "Nacional"
+        ],
+        "types": [
+            "Actual"
+        ],
+        "url": [
+            "https://www.anid.cl/concursos/start-up-ciencia/"
+        ],
+        "amount": [
+            "Variable según proyecto"
+        ],
+        "dates": [
+            "Disponible todo el año"
+        ],
+        "duration": [
+            "Permanente"
+        ]
+    }
+}

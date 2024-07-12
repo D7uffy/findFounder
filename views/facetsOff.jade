@@ -1,0 +1,32 @@
+//- Contenedor de las facetas
+div(id="facetas_all" class="fixed-filters")
+  p Filtros
+  //- Facetas de Región
+  div(id="facets")
+    span Región:
+      ul
+        each aggregation in aggregations
+          li
+            label
+              input(type="checkbox" class="type_facet" data-value="#{aggregation.key}")
+              | #{aggregation.key}
+
+  //- Facetas de Temporalidad
+  div(id="facets")
+    span Temporalidad:
+      ul
+        each calidad in aggregations2
+          li
+            label
+              input(type="checkbox" class="types_facet" data-value="#{calidad.key}")
+              | #{calidad.key}
+
+  //- Facetas de Monto
+  div(id="facets")
+    span Monto:
+      ul
+        each monto in aggregations3
+          li
+            label
+              input(type="checkbox" class="amount_facet" data-value="#{monto.from}-#{monto.to}")
+              | #{monto.key}

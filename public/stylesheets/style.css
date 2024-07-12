@@ -1,0 +1,292 @@
+/* Estilos generales */
+body {
+  background-color: rgb(12, 12, 12);
+  font-family: 'Arial', sans-serif;
+  margin: 0;
+  padding: 0;
+  display: flex;
+}
+
+/* Contenedor principal */
+#main_container {
+  background-color: rgb(235, 241, 240);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  padding: 2px;
+  box-sizing: border-box;
+  flex-grow: 1; /* Para que ocupe el espacio restante */
+}
+
+.centered-box {
+  margin: 50px auto; /* Margen superior/inferior de 50px y centrado horizontalmente */
+  max-width: 800px; /* Ancho máximo del contenedor */
+  border: 1px solid #ccc; /* Borde gris claro */
+  border-radius: 10px; /* Esquinas redondeadas */
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Sombra alrededor del contenedor */
+  
+}
+
+/* Encabezado */
+#header {
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+#logo {
+  max-width: 150px;
+  height: auto;
+  margin-bottom: 10px;
+}
+
+/* Contenedor del buscador */
+#search_container {
+ 
+  width: 100%;
+  max-width: 800px;
+  text-align: center;
+  margin-top: 20px;
+  box-sizing: border-box;
+  border-color: #105460;
+}
+
+/* Formulario de búsqueda */
+#search_form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 20px;
+}
+
+#search_box {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+  max-width: 600px;
+  margin-bottom: 20px;
+}
+
+#search_box input[type="text"] {
+  padding: 10px;
+  width: 100%;
+  max-width: 400px;
+  border: 1px solid #ccc;
+  border-radius: 4px 0 0 4px;
+  font-size: 16px;
+  margin-right: -5px;
+}
+
+#search_box input[type="submit"] {
+  padding: 10px 20px;
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 0 4px 4px 0;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+  font-size: 16px;
+}
+
+#search_box input[type="submit"]:hover {
+  background-color: #0056b3;
+}
+
+/* Facetas */
+#facetas_all {
+  background-color: rgb(235, 241, 240);
+}
+
+.fixed-filters ul {
+  list-style: none;
+}
+
+.fixed-filters {
+  position: fixed;
+  z-index: 1000;
+  margin-top: 50px;
+  border-radius: 9px;
+  padding: 4px;
+  border: 1px solid #0a0a0a;
+  width: 250px;
+  border-color: #105460;
+}
+
+#facets {
+  margin-bottom: 2px;
+  list-style: none;
+}
+
+#facetas_all > p {
+  font-size: 24px; 
+  margin-bottom: 15px; 
+  color: #105460; 
+  text-transform: uppercase; 
+  letter-spacing: 1px; 
+  text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.3); 
+  border-bottom: 2px solid #105460;
+  padding-bottom: 5px; 
+}
+
+
+#facets span {
+  font-weight: bold; /* Texto en negrita para destacar */
+  display: inline-block; /* Convertir en bloque en línea para controlar el espacio */
+  margin-bottom: 8px; /* Aumento del espacio inferior para separación */
+  color: #FF5722 ; /* Color verde para destacar */
+  letter-spacing: 1px; /* Espaciado entre letras para claridad */
+}
+
+
+#facets label {
+  font-weight: lighter; 
+  font-size: 14px;
+  display: block;
+  margin-bottom: 6px;
+  color: #105460; /* Color verde para destacar */
+}
+
+#facets input[type="checkbox"] {
+  margin-right: 5px;
+}
+
+#facets input[type="checkbox"]:checked + span {
+  font-weight: bold;
+  color: #0c0c0b; /* Color de resalte cuando está seleccionado */
+}
+
+#facets input[type="checkbox"]:checked + span::after {
+  content: " ✔"; /* Añade un checkmark después del texto cuando está seleccionado */
+}
+
+#facets input[type="checkbox"]:checked + span::before {
+  content: " ❌"; 
+}
+
+
+/* Total de resultados */
+#total {
+  margin-top: 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+/* Resultados individuales */
+#hits {
+  text-align: left;
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+
+#hits2 {
+  text-align: left;
+  width: 100%;
+  max-width: 800px;
+  margin: 20px auto;
+  overflow-y: scroll;
+  scroll-behavior: smooth;
+}
+
+.hit {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  padding: 10px;
+  margin-top: 15px;
+  background-color: #f9f9f9;
+}
+
+
+.hit-title {
+  font-size: 18px;
+  color: #333;
+  margin-bottom: 5px;
+}
+
+.hit-summary {
+  font-size: 16px; /* Tamaño de fuente aumentado */
+  line-height: 1.6; /* Espaciado entre líneas */
+  color: #333; /* Color de texto más oscuro */
+  margin-bottom: 10px; /* Espacio inferior para separación */
+  font-family: 'Arial', sans-serif; /* Fuente alternativa */
+}
+
+.highlight {
+  background-color: #007bff;
+  color: #fff;
+  font-weight: bold;
+}
+
+.amount-container {
+  text-align: right; /* Alinea el contenido a la derecha */
+  padding: 10px; /* Espaciado interno */
+  background-color: #f0f0f0; /* Color de fondo */
+  border: 1px solid #ccc; /* Borde gris */
+  border-radius: 5px; /* Bordes redondeados */
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Sombra para efecto de profundidad */
+  transition: transform 0.3s ease, box-shadow 0.3s ease; /* Transiciones suaves */
+  display: inline-block; /* Para que ocupe solo el ancho necesario */
+}
+
+.amount-container:hover {
+  transform: translateY(-2px); /* Efecto de elevación al pasar el ratón */
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2); /* Sombra más pronunciada */
+}
+
+.link-button {
+  text-decoration: none; /* Quitar subrayado del enlace */
+  color: #333; /* Color de texto oscuro */
+  font-weight: bold; /* Texto en negrita */
+  padding: 8px 16px; /* Espaciado interno */
+  display: inline-block; /* Bloque en línea */
+  background-color: #007bff; /* Color de fondo del botón */
+  color: #fff; /* Color de texto blanco */
+  border-radius: 5px; /* Bordes redondeados */
+  transition: background-color 0.3s ease, color 0.3s ease; /* Transiciones suaves */
+}
+
+.link-button:hover {
+  background-color: #0056b3; /* Cambio de color al pasar el ratón */
+}
+
+h4.hit-amount {
+  color: rgb(47, 49, 216); /* Verde */
+  display: inline; /* Alineación horizontal */
+}
+
+.amount {
+  color: rgb(32, 204, 16); /* Rojo anaranjado */
+  display: inline-block; /* Alineación horizontal */
+  vertical-align: middle;
+  font-size: 20px; /* Tamaño de fuente */
+  font-style: normal;
+}
+
+#boxClearSearch {
+  display: flex; /* Para alinear el contenido de forma flexible */
+  justify-content: center; /* Centra el botón horizontalmente */
+  margin-top: 20px; /* Espaciado superior */
+  margin-bottom: 20px; /* Espaciado inferior */
+}
+
+#reset_button {
+  background-color: #ff5722; /* Color de fondo del botón */
+  color: white; /* Color del texto del botón */
+  border: none; /* Sin borde */
+  padding: 10px 20px; /* Espaciado interno del botón */
+  font-size: 16px; /* Tamaño de fuente */
+  border-radius: 5px; /* Bordes redondeados */
+  cursor: pointer; /* Cambia el cursor a un puntero al pasar sobre el botón */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Sombra para efecto de profundidad */
+  transition: background-color 0.3s ease, transform 0.3s ease; /* Transiciones suaves */
+}
+
+#reset_button:hover {
+  background-color: #e64a19; /* Color de fondo al pasar el ratón */
+  transform: translateY(-2px); /* Efecto de elevación al pasar el ratón */
+}
